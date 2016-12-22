@@ -7117,10 +7117,14 @@ button.close {
     display: none !important;
   }
 }
-body {
-  padding-top: 50px;
-}
-
 .title {
   padding: 0px 0px 10px 0px;
+}
+
+.content {
+  padding-top: 30px;
+}
+
+.navbar-nav > li > a {
+  text-align: right;
 }

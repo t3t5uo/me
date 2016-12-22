@@ -21,10 +21,14 @@ $font-family-base: 'Space Mono', monospace;
 
 // add more css stuff here
 
-body {
-  padding-top: 50px;
-}
-
 .title {
 	padding: 0px 0px 10px 0px;	
+}
+
+.content {
+	padding-top:30px;
+}
+
+.navbar-nav > li > a {    
+    text-align:right;
 }
